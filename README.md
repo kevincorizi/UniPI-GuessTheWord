@@ -1,4 +1,4 @@
-# UniPI-GuessTheWord
+ UniPI-GuessTheWord
 P2P online game with centralized scheduling server to manage multiple pairs of users at the same time.
 
 The game is developed in C using the C socket API.
@@ -11,5 +11,5 @@ At the end of the game, the winner notifies the server of the victory so that it
 
 Here is a brief description of the protocol:
 
-![Protocol](/protocol.png)
+![Protocol](/protocol.PNG)
                                                 
